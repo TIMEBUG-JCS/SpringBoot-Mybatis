@@ -10,6 +10,6 @@ public class MybatisApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MybatisApplication.class, args);
-        System.out.println("program start running......");
+        System.out.println("program start run...");
     }
 }
